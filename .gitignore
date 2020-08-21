@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Prisma files
+generated/
+prisma.yml
+
+# VS code things
+.vscode/
